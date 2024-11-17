@@ -1,0 +1,11 @@
+#mainDiv {
+    width: 80%;
+    max-width: 600px;
+    border: 9px double rgb(255, 85, 0) ;
+    margin: auto;
+    padding: 15px;
+}
+
+#resultDiv {
+    
+}
